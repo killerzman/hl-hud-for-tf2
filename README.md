@@ -30,8 +30,16 @@ Nothing implemented so far.
 
 # Download
 
-None yet. This section will be updated as soon as there is one available.
+[Latest version available here.](https://github.com/killerzman/hl-hud-for-tf2/archive/master.zip)
+
+# Installation
+
+Once you've downloaded the zip archive, extract the hlhudfortf2 folder (NOT THE hl-hud-for-tf2-master FOLDER!!!) in [TF2 DIRECTORY]/tf/custom (Default directory: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom).
+
+If you don't have a custom folder, create one yourself.
+
+I am not responsible of conflicts with other HUDs/mods, so be sure to disable/delete them before trying this one/complaining to me.
 
 # Screenshots
 
-None yet. This section will be updated as soon as there is one available.
+I will update this section once I have important updates to showcase. Nothing yet of importance.
