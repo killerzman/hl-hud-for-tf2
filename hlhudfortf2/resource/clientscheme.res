@@ -208,6 +208,9 @@ Scheme
 		"UpgradeSelectedBg"		"249 138 83 255"
 		"UpgradeDisabledFg"		"64 59 52 255"
 		"UpgradeDisabledBg"		"79 77 68 255"
+		
+		// Custom colors
+		"Yellowish" "255 160 0 255"
 	}
 
 	///////////////////// BASE SETTINGS ////////////////////////
@@ -3016,8 +3019,81 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		// Custom Fonts for the HUD
+		
+		HL2Font12
+		{
+			"1"
+			{
+				"name"		"K12T6's_Full_Alphabet_HL2_Replacement"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		HL2Font16
+		{
+			"1"
+			{
+				"name"		"K12T6's_Full_Alphabet_HL2_Replacement"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		HL2Font24
+		{
+			"1"
+			{
+				"name"		"K12T6's_Full_Alphabet_HL2_Replacement"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		HL2Font32
+		{
+			"1"
+			{
+				"name"		"K12T6's_Full_Alphabet_HL2_Replacement"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		HL2Font36
+		{
+			"1"
+			{
+				"name"		"K12T6's_Full_Alphabet_HL2_Replacement"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		HL2Font42
+		{
+			"1"
+			{
+				"name"		"K12T6's_Full_Alphabet_HL2_Replacement"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		HL2Font48
+		{
+			"1"
+			{
+				"name"		"K12T6's_Full_Alphabet_HL2_Replacement"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
 	}
-
+	
 	//
 	//////////////////// BORDERS //////////////////////////////
 	//
@@ -5767,5 +5843,10 @@ Scheme
 			}
 		}			
 		"7" "resource/ocra.ttf"
+		"8"
+		{
+			"font" "resource/fonts/K12HL2.ttf"
+			"name" "K12T6's_Full_Alphabet_HL2_Replacement"
+		}
 	}
 }
